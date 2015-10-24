@@ -1,0 +1,3 @@
+This file need to be added & commited
+Firstly,
+	we put down a message here, then try to add & commit.
