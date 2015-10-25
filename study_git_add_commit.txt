@@ -5,3 +5,5 @@ Firstly,
 	add sth. in master and add, then git reset HEAD to discharge the index
 	commit line
 	add line 2
+
+>>>Tom add line1 commit first time
