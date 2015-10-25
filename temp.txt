@@ -6,3 +6,4 @@ Secondly,
 	then, we edit study_git_add_commit.txt without add and commit.
 	we move branch back to master.
 	See what will be.
+>>> Tom add 1line here
