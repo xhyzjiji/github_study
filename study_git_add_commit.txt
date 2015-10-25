@@ -7,3 +7,4 @@ Firstly,
 	add line 2
 
 >>>Tom add line1 commit first time
+>>>Jen edit this file
