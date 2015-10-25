@@ -1,0 +1,8 @@
+This file need to be added & commited
+Firstly,
+	we put down a message here, then try to add & commit.
+Secondly,
+	we move branch from master to workspace_branch,
+	then, we edit study_git_add_commit.txt without add and commit.
+	we move branch back to master.
+	See what will be.
