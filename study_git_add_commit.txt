@@ -8,3 +8,5 @@ Firstly,
 
 >>>Tom add line1 commit first time
 >>>Jen edit this file
+>>>Tom add line2 --- c2
+
